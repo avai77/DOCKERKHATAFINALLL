@@ -1,0 +1,11 @@
+*.pyc
+*~
+/drf/core/__pycache__
+/drf/env
+/drf/core/db.sqlite3
+/drf/core/static
+/drf/core/.DS_Store
+/drf/core/main/migrations/
+/T14_2/
+/django_movie_drf/
+.idea/
